@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I’m Dario- an international development professional passionate about using rigorous evidence to design better public policies: in short, turning social science into social good. 
 
-I currently serve as the Director of Research for the [Penn Development Research Initiative (PDRI)] (https://pdri.upenn.edu/) at UPenn, where I work on advancing the initiative's research activities and lead the development of PDRI events and outputs.
+I currently serve as the Director of Research for the [Penn Development Research Initiative (PDRI)](https://pdri.upenn.edu/) at UPenn, where I work on advancing the initiative's research activities and lead the development of PDRI events and outputs.
 
 Previously, I was an Advisor with the Behavioural Insights Team's (BIT) Canadian office in Toronto, which works to generate and apply behavioural insights to inform policy and improve public services. I helped build and grow BIT's Canadian practice in its first two years. If you're interested in this type work, this piece nicely summarizes the approach.
 
