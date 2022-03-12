@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dario Sidhu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Director of Research, Penn Development Research Initiative (PDRI)"
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : 
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/dario-sidhu-1903aa10/?originalSubdomain=ca"
+  linkedin         : "/dario-sidhu-1903aa10/?originalSubdomain=ca"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/dariosidhu"
+  twitter          : "/dariosidhu"
   vine             :
   weibo            :
   xing             :
