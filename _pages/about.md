@@ -16,4 +16,4 @@ Previously, I was an Advisor with the [Behavioural Insights Team's (BIT)](https:
 
 Apart from my own work, I’m passionate about contributing to better public understanding of social science research, particularly on international development topics. To that end I have, among other efforts, served as an advisor to newspapers and other outlets. If you would like to work with me, please send me an email at firstname.lastname@gmail.com. I am also occasionally active on Twitter.
 
-I hold an MA from [Johns Hopkins SAIS](https://sais.jhu.edu/) and a BSc in economics from [Vienna University of Economics and Business](https://www.wu.ac.at/en/). I am currently based in Philadelphia, and am a dual Austrian/Canadian national.
+I hold an MA from [Johns Hopkins SAIS](https://sais.jhu.edu/) and a BSc in economics from [Vienna University of Economics and Business](https://www.wu.ac.at/en/). I am currently based in Philadelphia, and am a dual Austrian/Canadian national. 
