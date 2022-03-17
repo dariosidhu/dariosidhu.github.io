@@ -25,6 +25,8 @@ Selected media coverage
 
 * [Reform of China's ailing state-owned firms is emboldening them](https://www.economist.com/finance-and-economics/2017/07/22/reform-of-chinas-ailing-state-owned-firms-is-emboldening-them), The Economist, July 22, 2017.
 
+* [Episode 13: Export Superstars and Billionaires: When Do Policymakers Need to Worry?](https://tradetalkspodcast.com/podcast/13-export-superstars-and-billionaires-when-do-policymakers-need-to-worry/) Trade Talks Podcast, November 22, 2017.
+
 * [The working class's role in Trump's election](https://voxeu.org/article/working-class-s-role-trump-s-election), VoxEU, June 1, 2017.
 
 * [Trump's win had little to do with manufacturing, and everything to do with cultural identity](https://qz.com/1001249/trumps-win-had-little-to-do-with-manufacturing-and-everything-to-do-with-cultural-identity/), Quartz, June 16, 2017.
