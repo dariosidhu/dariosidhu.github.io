@@ -19,6 +19,8 @@ Selected media coverage
 
 * [Trump's Trade Failure Can Be Biden's Win On China And WTO](https://www.forbes.com/sites/christinemcdaniel/2021/02/01/trumps-trade-failure-can-be-bidens-win-on-china-and-wto/?sh=75edc0a94e4e), Forbes, February 1, 2021.
 
+*	[Die Welt verbessern? Ganz ehrlich, wir haben doch alle keine Ahnung](https://www.derstandard.at/story/2000109917781/die-welt-verbessern-ganz-ehrlich-wir-haben-doch-alle-keine), Der Standard, October 16, 2019.
+
 *	[Eine preisgekrönte Revolution im Kampf gegen globale Armut](https://www.derstandard.at/story/2000109866435/eine-preisgekroente-revolution-im-kampf-gegen-die-globale-armut), Der Standard, October 14, 2019.
 
 * [Sollten Lehrer doppelt so viel verdienen? Lieber nicht, sagt ein Experiment](https://www.derstandard.at/story/2000101008169/sollten-lehrer-doppelt-so-viel-verdienen-ein-experiment-sagt-lieber), Der Standard, April 14, 2019.
