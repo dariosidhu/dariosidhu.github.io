@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Writing and media coverage"
+title: "Writing and media"
 permalink: /writing/
 author_profile: true
 ---
