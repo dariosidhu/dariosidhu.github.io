@@ -10,7 +10,7 @@ author_profile: true
 
 Writing
 ======
-* [It’s giving season — how do you ensure your charitable donations will be used effectively?]((https://www.thestar.com/opinion/contributors/2021/11/29/its-giving-season-how-do-you-ensure-your-charitable-donations-will-be-used-effectively.html) (with Ryan C. Briggs) Toronto Star, November 29, 2021
+* [It’s giving season — how do you ensure your charitable donations will be used effectively?](https://www.thestar.com/opinion/contributors/2021/11/29/its-giving-season-how-do-you-ensure-your-charitable-donations-will-be-used-effectively.html) (with [Ryan C. Briggs](https://www.ryancbriggs.net/)) Toronto Star, November 29, 2021
 
 
 Media coverage
