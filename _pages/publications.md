@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+Permanent working papers
+======
+
+* [It’s giving season — how do you ensure your charitable donations will be used effectively?](https://www.thestar.com/opinion/contributors/2021/11/29/its-giving-season-how-do-you-ensure-your-charitable-donations-will-be-used-effectively.html) (with [Ryan C. Briggs](https://www.ryancbriggs.net/)) Toronto Star, November 29, 2021.
+
+* [What have the Romans ever done for us?](https://medium.com/@dario.sidhu/what-have-the-romans-ever-done-for-us-a6d05b47fdc) Medium, February 26, 2020.
