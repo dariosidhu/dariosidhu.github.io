@@ -14,4 +14,4 @@ Before starting my PhD, I worked in a number of roles at the intersection of soc
 
 I hold an MA from [Johns Hopkins SAIS](https://sais.jhu.edu/) and a BSc in economics from [Vienna University of Economics and Business](https://www.wu.ac.at/en/).
 
-You can access my CV [here](files/cv_oct_23).
+You can access my CV [here](files/cv_oct_23.pdf).
