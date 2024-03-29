@@ -8,10 +8,13 @@ author_profile: true
 {% include base_path %}
 
 
-Working papers
+Articles
 -----
 
 * "What Kind of Algorithmic Governance do Citizens Support?" with Beatrice Magistro, Peter John Loewen, and Benjamin Allen Stevens. Accepted, *Journal of Public Policy*.
+
+Working papers
+-----
 
 Permanent working papers
 -----
