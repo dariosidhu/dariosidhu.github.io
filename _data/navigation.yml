@@ -18,8 +18,8 @@ main:
   - title: "Writing & media"
     url: /writing/
     
- # - title: "CV"
- #   url: /cv/
+  - title: "CV"
+    url: /files/cv_oct_23.pdf
     
   #- title: "Guide"
  #   url: /markdown/
