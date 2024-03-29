@@ -11,7 +11,7 @@ author_profile: true
 Working papers
 -----
 
-* "What Kind of Algorithmic Governance do Citizens Support?" with Beatrice Magistro (Caltech) Peter John Loewen (U of T), and Benjamin Allen Stevens. Revise and resubmit, Journal of Public Policy.
+* "What Kind of Algorithmic Governance do Citizens Support?" with Beatrice Magistro (Caltech) Peter John Loewen (U of T), and Benjamin Allen Stevens. Accepted, *Journal of Public Policy*.
 
 Permanent working papers
 -----
