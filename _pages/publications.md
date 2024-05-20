@@ -11,7 +11,7 @@ author_profile: true
 Articles
 -----
 
-* "[Why do citizens support algorithmic government?](https://www.cambridge.org/core/journals/journal-of-public-policy/article/why-do-citizens-support-algorithmic-government/ABF758B29E99006215BCBFF95C96FBCD) with Beatrice Magistro, Peter John Loewen, and Benjamin Allen Stevens. *Journal of Public Policy:* First View, 1:19.
+* "[Why do citizens support algorithmic government?](https://www.cambridge.org/core/journals/journal-of-public-policy/article/why-do-citizens-support-algorithmic-government/ABF758B29E99006215BCBFF95C96FBCD)," with Beatrice Magistro, Peter John Loewen, and Benjamin Allen Stevens. *Journal of Public Policy:* First View, 1:19.
 
 Working papers
 -----
