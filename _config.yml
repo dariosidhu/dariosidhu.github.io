@@ -7,3 +7,5 @@ description: |
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+google_scholar_url: https://scholar.google.com/citations?user=j-bOuVwAAAAJ&hl=en
+cv_url: /assets/CV.pdf
