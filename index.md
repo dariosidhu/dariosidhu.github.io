@@ -16,4 +16,4 @@ I hold an MA from [Johns Hopkins SAIS](https://sais.jhu.edu/) and a BSc in econo
 
 ## Selected other writing
 
-1. [It's giving season - how do you ensure your charitable donations will be used effectively?](https://www.thestar.com/opinion/contributors/it-s-giving-season-how-do-you-ensure-your-charitable-donations-will-be-used-effectively/article_be8b5675-214a-51ff-acb0-a6111196c9b5.html) Toronto Star. (with Ryan Briggs)
+1. [It's giving season - how do you ensure your charitable donations will be used effectively?](https://www.thestar.com/opinion/contributors/it-s-giving-season-how-do-you-ensure-your-charitable-donations-will-be-used-effectively/article_be8b5675-214a-51ff-acb0-a6111196c9b5.html) 2021. *Toronto Star*. (with Ryan Briggs).
