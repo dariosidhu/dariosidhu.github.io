@@ -12,7 +12,7 @@ I hold an MA from [Johns Hopkins SAIS](https://sais.jhu.edu/) and a BSc in econo
 
 ## Working papers
 
-1. What is holding back the use of scientific evidence to inform social policy? (with Graeme Blair)
+1. What is holding back the use of scientific evidence to inform social policy? (with Graeme Blair).
 
 ## Selected other writing
 
